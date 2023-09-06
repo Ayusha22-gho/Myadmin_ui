@@ -2,7 +2,7 @@
     .item{
         display: flex;
         flex-direction: column;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         gap: 10px;
 
         .title {
@@ -14,7 +14,8 @@
             .listItem {
             display: flex;
             align-items: center;
-            padding: 10px;
+            justify-content: flex-start;
+            padding:8px;
             gap: 10px;
             color: white; border-radius: 5px;
            

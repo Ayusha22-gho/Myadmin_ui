@@ -17,7 +17,7 @@ const Navbar = () =>{
                 </div>
                 <div className="user">
                     <img src = "https://images.pexels.com/photos/11038549/pexels-photo-11038549.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load" alt = "" style = {{width :"25px", height : "25px" , borderRadius : "50%", objectFit : "cover"}}/>
-                    <span>Jane</span>
+                    <span>Ayusha</span>
                 </div>
                 <img src = "setting.svg" alt = "" className="icon"/>
             </div>
